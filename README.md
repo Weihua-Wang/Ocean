@@ -2,12 +2,8 @@
 
 **AAAI 2026**
 
-Weihua Wang, Yubo Cui, Xiangru Lin, Zhiheng Li, Zheng Fang  
-Northeastern University · The University of Hong Kong
-
 [![Paper](https://img.shields.io/badge/Paper-AAAI%202026-b31b1b)](https://arxiv.org/abs/2511.13031) [![Project Page](https://img.shields.io/badge/Project-Page-3273a0)](https://ocean-ssc.github.io/)
 
-> **Code availability:** The implementation is not publicly available yet. This repository currently provides the paper introduction, framework overview, and experimental results.
 
 ## Abstract
 
@@ -37,12 +33,12 @@ Ocean is an object-centric framework for monocular semantic scene completion. It
 
 ![Qualitative results on the SemanticKITTI validation set](qualitative-results.png)
 
-Figures and tables are reproduced from the paper. Full-resolution figures are also available on the [project page](https://ocean-ssc.github.io/#experiments).
-
 ## Code Release Status
 
 - [x] Paper and project page
 - [x] Framework overview and experimental results
+- [ ] Code release
+- [ ] Model release
 - [ ] Implementation and usage instructions
 
 ## Citation
