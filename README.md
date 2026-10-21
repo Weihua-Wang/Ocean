@@ -11,7 +11,7 @@ Vision-based 3D Semantic Scene Completion (SSC) has received growing attention d
 
 ## Overview
 
-![Overview of Ocean](framework.png)
+![Overview of Ocean](imgs/framework.png)
 
 Ocean is an object-centric framework for monocular semantic scene completion. It uses MobileSAM instance priors to guide 3D feature learning through the following components:
 
@@ -23,15 +23,15 @@ Ocean is an object-centric framework for monocular semantic scene completion. It
 
 ### SemanticKITTI
 
-![SemanticKITTI test-set results, Table 1](semantickitti-results.png)
+![SemanticKITTI test-set results, Table 1](imgs/semantickitti-results.png)
 
 ### SSCBench-KITTI360
 
-![SSCBench-KITTI360 test-set results, Table 2](kitti360-results.png)
+![SSCBench-KITTI360 test-set results, Table 2](imgs/kitti360-results.png)
 
 ### Qualitative Results
 
-![Qualitative results on the SemanticKITTI validation set](qualitative-results.png)
+![Qualitative results on the SemanticKITTI validation set](imgs/qualitative-results.png)
 
 ## Code Release Status
 
@@ -56,3 +56,4 @@ If you find this work useful, please consider citing:
   year={2026}
 }
 ```
+
